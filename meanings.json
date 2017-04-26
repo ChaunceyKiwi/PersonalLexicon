@@ -1,0 +1,28 @@
+{
+  "meanings": [
+    {
+      "id": 0,
+      "POS": "verb, noun",
+      "definition": "carefree, freedom from constraint",
+      "synonyms": "unconstrained, uninhibitedness, unrestraint",
+      "antonyms": "",
+      "example": "abandon oneself to emotion"
+    },
+    {
+      "id": 1,
+      "POS": "verb",
+      "definition": "to withdraw from often in the face of danger or encroachment",
+      "synonyms": "",
+      "antonyms": "salvage",
+      "example": ""
+    },
+    {
+      "id": 2,
+      "POS": "verb",
+      "definition": "to lower in rank, office, prestige, or esteem",
+      "synonyms": "debauch, degrade, profane, vitiate, discredit, foul, smirch, take down",
+      "antonyms": "elevate, ennoble, uplift, aggrandize, canonize, deify, exalt",
+      "example": "He was unwilling to abase himself by pleading guilty to a crime that he did not commit"
+    }
+  ]
+}
