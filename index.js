@@ -23,5 +23,5 @@ $.get('/api/words', function(data) {
 });
 
 function runApplication() {
-
+    console.log(window.LEXICON_DATA);
 }

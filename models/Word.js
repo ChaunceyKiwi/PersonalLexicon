@@ -11,7 +11,9 @@ module.exports = function(sequelize, DataType) {
         }, {
             classMethods: {
                 associate: function(models) {
-                    Word.hasMany(models.Meaning);
+                    Word.belongsToMany(models.Meaning, {
+                        through: 'Words_Meanings'
+                    });
                 }
             }
         }
