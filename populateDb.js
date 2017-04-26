@@ -27,6 +27,13 @@ models.sequelize.sync({force: true}).then(function() {
             models.Word.create({
                 id: word.id.toString(),
                 spelling: word.spelling
+            }).then(function(WordInstance) {
+                for (var i = 0; i < word.meanings.length; i++) {
+                    var meaningId = word.meanings[i];
+                    models.Meaning.findById(meaningId).then(function(meaning) {
+                        WordInstance.addMeaning(meaning);
+                    })
+                }
             });
         });
     });
