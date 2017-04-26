@@ -5,6 +5,10 @@ app.get('/', function (req, res) {
     res.sendFile(__dirname + '/index.html');
 });
 
+app.get('/style.css', function (req, res) {
+    res.sendFile(__dirname + '/style.css');
+});
+
 app.listen(3000, function () {
     console.log('Example app listening on port 3000!');
 });
