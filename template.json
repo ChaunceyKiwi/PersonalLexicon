@@ -1,0 +1,17 @@
+// template for word
+{
+  "id": ,
+  "spelling": "",
+  "meanings": []
+}
+
+// template for meaning
+{
+  "id": ,
+  "POS": "",
+  "definition": "",
+  "synonyms": "",
+  "antonyms": "",
+  "example": ""
+}
+
