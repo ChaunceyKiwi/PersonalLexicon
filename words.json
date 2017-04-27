@@ -9,6 +9,26 @@
       "id": 1,
       "spelling": "abase",
       "meanings": [2]
+    },
+    {
+      "id": 2,
+      "spelling": "abash",
+      "meanings": [3]
+    },
+    {
+      "id": 3,
+      "spelling": "abate",
+      "meanings": [4]
+    },
+    {
+      "id": 4,
+      "spelling": "abdicate",
+      "meanings": [5]
+    },
+    {
+      "id": 5,
+      "spelling": "aberrant",
+      "meanings": [6]
     }
   ]
 }

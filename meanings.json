@@ -22,7 +22,39 @@
       "definition": "to lower in rank, office, prestige, or esteem",
       "synonyms": "debauch, degrade, profane, vitiate, discredit, foul, smirch, take down",
       "antonyms": "elevate, ennoble, uplift, aggrandize, canonize, deify, exalt",
-      "example": "He was unwilling to abase himself by pleading guilty to a crime that he did not commit"
+      "example": "He was unwilling to abase himself by pleading guilty to a crime that he did not commit."
+    },
+    {
+      "id": 3,
+      "POS": "verb.t",
+      "definition": "to destory the self-confidence, embarrass",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "Some regugees stare down the camera; a young girl smiles, while her father looks down, abashed."
+    },
+    {
+      "id": 4,
+      "POS": "verb",
+      "definition": "to reduce in degree, intensity or amount, value",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "abate his rage/pain, abate a tax"
+    },
+    {
+      "id": 5,
+      "POS": "verb",
+      "definition": "to renounce a throne",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "In 1918, Kaiser Wilhelm abdicated as German emperor."
+    },
+    {
+      "id": 6,
+      "POS": "adj",
+      "definition": "deviating from the usual or natural type",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "This aberrant, if not criminal, behavior must not be tolerated."
     }
   ]
 }
