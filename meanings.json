@@ -231,6 +231,110 @@
       "synonyms": "",
       "antonyms": "",
       "example": "If you stubbornly refuse to change your mind about something, you are adamant about it."
+    },
+    {
+      "id": 29,
+      "POS": "verb",
+      "definition": "literally it means 'stick to', and figuratively it means 'follow, obey'",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "Will this wallpaper adhere to the wall? / adhere to the rules"
+    },
+    {
+      "id": 30,
+      "POS": "verb.i",
+      "definition": "To adjourn is to close a session of something, like at court. People also adjourn when they go to bed.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "The meeting adjourned for a week"
+    },
+    {
+      "id": 31,
+      "POS": "noun",
+      "definition": "Adjunct means something added on, but not part of the whole. An adjunct professor is someone who is hired by a college to teach but isn't a full member of the faculty.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "After retiring, he spent 18 years as an adjunct professor at Johns Hopkins University in Baltimore, running the Center for Materials Research."
+    },
+    {
+      "id": 32,
+      "POS": "verb",
+      "definition": "to give advice to",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "admonish the patient to eat mpre healthy foods"
+    },
+    {
+      "id": 33,
+      "POS": "verb",
+      "definition": "To admonish is to scold. If you want to show someone you're not happy with his behavior, admonish him.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "admonish her for littering"
+    },
+    {
+      "id": 34,
+      "POS": "verb",
+      "definition": "To adulate is to flatter someone. A lot. Like, drop-on-your-knees-and-clasp-your-hands-and-say-'you-are-the-greatest-ever-to-walk-the-earth' a lot.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "adulate his/her boss"
+    },
+    {
+      "id": 35,
+      "POS": "to corrupt, debase, or make impure by the addition of a foreign or inferior substance of element",
+      "definition": "",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "adulterate its products with cheap additives"
+    },
+    {
+      "id": 36,
+      "POS": "verb.t",
+      "definition": "report or represent in outline, or to give a slight indication of beforehand",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "The strife in Bloody Kansas adumbrated the civil war that would follow"
+    },
+    {
+      "id": 37,
+      "POS": "adj",
+      "definition": "coming from another source and not inherent or innate",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "adventitious viruses"
+    },
+    {
+      "id": 38,
+      "POS": "noun",
+      "definition": "opponent, enemy",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "political adversary"
+    }, 
+    {
+      "id": 39,
+      "POS": "adj",
+      "definition": "Affable means friendly, pleasant, and easy to talk to. An affable host offers you something to drink and makes you feel at home.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "anaffable manner"
+    },
+    {
+      "id": 40,
+      "POS": "adj",
+      "definition": "You know you're driving through an affluent neighborhood when you see large houses, perfect landscaping, and expensive cars. Use affluent to describe wealthy people or areas.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "affluent society"
+    },
+    {
+      "id": 41,
+      "POS": "vert.t",
+      "definition": "If you are a window washer, but you refer to yourself as a 'vista enhancement specialist,' then you are aggrandizing your job title — that is, making it sound greater than it is.'' The verb aggrandize not only means 'to make appear greater'; it can also be used to mean simply 'to make greater.'",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "exploit the situation to aggrandize himself"
     }
   ]
 }

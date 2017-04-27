@@ -134,6 +134,66 @@
       "id": 26,
       "spelling": "adamant",
       "meanings": [28]
+    },
+    {
+      "id": 27,
+      "spelling": "adhere",
+      "meanings": [29]
+    },
+    {
+      "id": 28,
+      "spelling": "adjourn",
+      "meanings": [30]
+    },
+    {
+      "id": 29,
+      "spelling": "adjunct",
+      "meanings": [31]
+    },
+    {
+      "id": 30,
+      "spelling": "admonlish",
+      "meanings": [32, 33]
+    },
+    {
+      "id": 31,
+      "spelling": "adulate",
+      "meanings": [34]
+    },
+    {
+      "id": 32,
+      "spelling": "adulterate",
+      "meanings": [35]
+    },
+    {
+      "id": 33,
+      "spelling": "adumbrate",
+      "meanings": [36]
+    },
+    {
+      "id": 34,
+      "spelling": "adventitious",
+      "meanings": [37]
+    },
+    {
+      "id": 35,
+      "spelling": "adversary",
+      "meanings": [38]
+    },
+    {
+      "id": 36,
+      "spelling": "affable",
+      "meanings": [39]
+    },
+    {
+      "id": 37,
+      "spelling": "affluent",
+      "meanings": [40]
+    },
+    {
+      "id": 38,
+      "spelling": "aggrandize",
+      "meanings": [41]
     }
   ]
 }
