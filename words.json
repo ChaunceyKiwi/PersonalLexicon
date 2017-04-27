@@ -29,6 +29,111 @@
       "id": 5,
       "spelling": "aberrant",
       "meanings": [6]
+    },
+    {
+      "id": 6,
+      "spelling": "abet",
+      "meanings": [7]
+    },
+    {
+      "id": 7,
+      "spelling": "abeyance",
+      "meanings": [8]
+    },
+    {
+      "id": 8,
+      "spelling": "abiding",
+      "meanings": [9]
+    },
+    {
+      "id": 9,
+      "spelling": "abject",
+      "meanings": [10, 11]
+    },
+    {
+      "id": 10,
+      "spelling": "abjure",
+      "meanings": [12]
+    },
+    {
+      "id": 11,
+      "spelling": "abominate",
+      "meanings": [13]
+    },
+    {
+      "id": 12,
+      "spelling": "abrogate",
+      "meanings": [14]
+    },
+    {
+      "id": 13,
+      "spelling": "abscond",
+      "meanings": [15]
+    },
+    {
+      "id": 14,
+      "spelling": "absolve",
+      "meanings": [16]
+    },
+    {
+      "id": 15,
+      "spelling": "abstain",
+      "meanings": [17]
+    },
+    {
+      "id": 16,
+      "spelling": "abstemious",
+      "meanings": [18]
+    },
+    {
+      "id": 17,
+      "spelling": "abstruse",
+      "meanings": [19]
+    },
+    {
+      "id": 18,
+      "spelling": "absurd",
+      "meanings": [20]
+    },
+    {
+      "id": 19,
+      "spelling": "accede",
+      "meanings": [21]
+    },
+    {
+      "id": 20,
+      "spelling": "accolade",
+      "meanings": [22]
+    },
+    {
+      "id": 21,
+      "spelling": "accrete",
+      "meanings": [23]
+    },
+    {
+      "id": 22,
+      "spelling": "acerbic",
+      "meanings": [24]
+    },
+    {
+      "id": 23,
+      "spelling": "acme",
+      "meanings": [25]
+    },
+    {
+      "id": 24,
+      "spelling": "acquiesce",
+      "meanings": [26]
+    },
+    {
+      "id": 25,
+      "spelling": "acrid",
+      "meanings": [27]
+    },
+    {
+      "id": 26,
+      "spelling": "adamant",
+      "meanings": [28]
     }
   ]
 }

@@ -55,6 +55,182 @@
       "synonyms": "",
       "antonyms": "",
       "example": "This aberrant, if not criminal, behavior must not be tolerated."
+    },
+    {
+      "id": 7,
+      "POS": "verb",
+      "definition": "to help someone do something, usually something wrong",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "If you were the lookout while your older sister swiped cookies from the cookie jar, you abetted her mischief."
+    },
+    {
+      "id": 8,
+      "POS": "noun",
+      "definition": "An abeyance is a temporary halt to something, with the emphasis on 'temporary'.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "hold the plan in abeyance"
+    },
+    {
+      "id": 9,
+      "POS": "adj",
+      "definition": "Lasting for a long time. Abiding is usually used with feelings and memories",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "Trump, it said, 'aims to reaffirm the deep and abiding U.S. commitment to Egypt’s security, stability and prosperity.'"
+    },
+    {
+      "id": 10,
+      "POS": "adj",
+      "definition": "Miserable. If it reeks of humiliation or looks like the lowest of lows, then you can safely describe it as abject. Abject means absolutely miserable, the most unfortunate, with utter humiliation. You might have heard the phrase abject poverty, which is the absolute worst, most hopeless level of poverty you've ever seen.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "Almost 85% of Syrians live in poverty, with more than two-thirds of the population in either extreme or abject poverty."
+    },
+    {
+      "id": 11,
+      "POS": "adj",
+      "definition": "completely without pride or dignity; self-abasing",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "an abject apology"
+    },
+    {
+      "id": 12,
+      "POS": "verb",
+      "definition": "A firm and final rejecting or abandoning. Abjure means to swear off, and it applies to something you once believed. You can abjure a religious faith, you can abjure your love of another person, and you can abjure the practice of using excessive force in interrogation.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "His new plan would introduce “gender perspectives” into the national curriculum, encouraging teachers “constantly to refer to both sexes” and to abjure sexual stereotypes."
+    },
+    {
+      "id": 13,
+      "POS": "verb",
+      "definition": "abhor, to hate or loathe intensely",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "I know everybody uses scent nowadays, but my mother, whose sense of smell is even more acute than her hearing, abominates scent."
+    },
+    {
+      "id": 14,
+      "POS": "verb",
+      "definition": "Abrogate means to abolish or avoid. When someone cuts in front of you in line, they are abrogating your right to be the next one served. When you cut in line, you are abrogating your responsibility to those who were in line before you.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "abrogate the law; abrogate their responsibilities"
+    }, 
+    {
+      "id": 15,
+      "POS": "verb",
+      "definition": "Abscond is to escape, often taking something along. As a kid, you may have absconded from your lemonade stand — with the coffee can of cash in hand, and your bewildered sister still filling cups for your customers.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "abscond form the prison"
+    },
+    {
+      "id": 16,
+      "POS": "verb",
+      "definition": "To be absolved is to be let off the hook, to be set free from a certain obligation or to be forgiven for a wrongdoing.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "absolve somebody from blame"
+    },
+    {
+      "id": 17,
+      "POS": "verb",
+      "definition": "If you abstain from something, you restrain yourself from consuming it. People usually abstain from things that are considered vices — like drinking alcohol or eating chocolate.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "abstain from smoking"
+    },
+    {
+      "id": 18,
+      "POS": "adj",
+      "definition": "Reserve abstemious for someone who exercises restraint, especially with regard to alcohol. A rock musician may sing about enjoying wine and women, but in his private life he may be abstemious.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "an abstemious diet/meals"
+    },
+    {
+      "id": 19,
+      "POS": "adj",
+      "definition": "difficult to comprehend",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "Let me just say that I understand Trump’s abstruse elocution."
+    },
+    {
+      "id": 20,
+      "POS": "adj",
+      "definition": "Something absurd is really silly, absolutely ridiculous, or total nonsense. Thinking you can wear flip flops and a bikini to the North Pole is an absurd idea, for example.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "an absurd argument"
+    },
+    {
+      "id": 21,
+      "POS": "verb",
+      "definition": "If you accede, it means you agree with someone or give in to his or her wish. The word is often used in a political context — the Queen acceded to the Prince's demands for more territory, a larger army, and funnier jesters.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "accede to public demand"
+    },
+    {
+      "id": 22,
+      "POS": "noun/verb",
+      "definition": "an expression of approval, to praise or honor",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "The director won virtually every accolade that the film world offered"
+    },
+    {
+      "id": 23,
+      "POS": "verb",
+      "definition": "to grow or increase gradually, as by addition",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "accrete the public interest"
+    },
+    {
+      "id": 24,
+      "POS": "adj",
+      "definition": "If you say something acerbic, or harshly bitter, to someone, it can leave a bitter taste in your own mouth that lingers, and the acerbic, or acidic, words can eat away at the person on the receiving end too.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "acerbic commentary"
+    },
+    {
+      "id": 25,
+      "POS": "adj",
+      "definition": "When something is at the very peak of perfection, reach for this noun from Greek: acme.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "A brilliant violinist might reach the acme of her career, but eventually she might become unstrung."
+    },
+    {
+      "id": 26,
+      "POS": "verb",
+      "definition": "accept something reluctantly but without protest",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "If your kid sister is refusing to hand over the television remote, you hope she acquiesces before your favorite show comes on"
+    },
+    {
+      "id": 27,
+      "POS": "adj",
+      "definition": "having an irritatingly strong and unpleasant taste or smell, or marked by the use of wit that is intended to cause hurt feelings",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "acrid fumes"
+    },
+    {
+      "id": 28,
+      "POS": "adj",
+      "definition": "unshakable or insistent especially in maintaining a position or opinion",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "If you stubbornly refuse to change your mind about something, you are adamant about it."
     }
   ]
 }
