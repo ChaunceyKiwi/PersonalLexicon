@@ -194,6 +194,91 @@
       "id": 38,
       "spelling": "aggrandize",
       "meanings": [41]
+    },
+    {
+      "id": 39,
+      "spelling": "agitate",
+      "meanings": [42, 43]
+    },
+    {
+      "id": 40,
+      "spelling": "agog",
+      "meanings": [44]
+    },
+    {
+      "id": 41,
+      "spelling": "agonize",
+      "meanings": [45]
+    },
+    {
+      "id": 42,
+      "spelling": "alacrity",
+      "meanings": [46]
+    },
+    {
+      "id": 43,
+      "spelling": "alibi",
+      "meanings": [47]
+    },
+    {
+      "id": 44,
+      "spelling": "allegiance",
+      "meanings": [48]
+    },
+    {
+      "id": 45,
+      "spelling": "allude",
+      "meanings": [49]
+    },
+    {
+      "id": 46,
+      "spelling": "aloof",
+      "meanings": [50]
+    },
+    {
+      "id": 47,
+      "spelling": "amalgamate",
+      "meanings": [51]
+    },
+    {
+      "id": 48,
+      "spelling": "amble",
+      "meanings": [52]
+    },
+    {
+      "id": 49,
+      "spelling": "ambrosial",
+      "meanings": [53]
+    },
+    {
+      "id": 50,
+      "spelling": "ameliorate",
+      "meanings": [54]
+    },
+    {
+      "id": 51,
+      "spelling": "amenable",
+      "meanings": [55]
+    },
+    {
+      "id": 52,
+      "spelling": "amorphous",
+      "meanings": [56]
+    },
+    {
+      "id": 53,
+      "spelling": "anodyne",
+      "meanings": [57]
+    },
+    {
+      "id": 54,
+      "spelling": "anathema",
+      "meanings": [58]
+    },
+    {
+      "id": 55,
+      "spelling": "anemic",
+      "meanings": [59]
     }
   ]
 }

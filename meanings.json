@@ -330,11 +330,155 @@
     },
     {
       "id": 41,
-      "POS": "vert.t",
+      "POS": "verb.t",
       "definition": "If you are a window washer, but you refer to yourself as a 'vista enhancement specialist,' then you are aggrandizing your job title — that is, making it sound greater than it is.'' The verb aggrandize not only means 'to make appear greater'; it can also be used to mean simply 'to make greater.'",
       "synonyms": "",
       "antonyms": "",
       "example": "exploit the situation to aggrandize himself"
+    },
+    {
+      "id": 42,
+      "POS": "verb",
+      "definition": "to attempt to arouse public feeling",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "agitate for better conditions"
+    },
+    {
+      "id": 43,
+      "POS": "verb.t",
+      "definition": "disturb, Someone who is agitated is visibly upset. If you have ever walked into a room and instantly been asked, 'What's wrong?' you probably looked agitated.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "When pressed on the matter, Westbrook became more agitated, repeatedly saying 'Next question.'"
+    },
+    {
+      "id": 44,
+      "POS": "adj",
+      "definition": "with great excitement and interest",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "Children were agog over new toys"
+    },
+    {
+      "id": 45,
+      "POS": "undergo great mental anguish through worrying about something",
+      "definition": "",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "The mother of a teenage boy might agonize over his safety when he first learns to drive."
+    },
+    {
+      "id": 46,
+      "POS": "noun",
+      "definition": "Someone with alacrity shows cheerful willingness and eager behavior, like a kid whose mother has told him he can buy anything in a candy store.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": ""
+    },
+    {
+      "id": 47,
+      "POS": "noun",
+      "definition": "Your alibi is evidence that proves your innocence. Or an excuse intended to avert blame or punnishment",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "He always has a very creative alibi for undone homework"
+    },
+    {
+      "id": 48,
+      "POS": "noun",
+      "definition": "devotion or olyalty to a person, group or cause",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "The swore their allegiance to the USAs"
+    },
+    {
+      "id": 49,
+      "POS": "verb.i",
+      "definition": "When you allude to something, you don't identify it or mention it specifically",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "If you allude to the fact that a cop is sitting right behind you, your friends might stop talking about their plans to rob a bank."
+    },
+    {
+      "id": 50,
+      "POS": "adj",
+      "definition": "Someone who's aloof isn't warm and friendly, instead being distant and reserved.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "Far from man’s best friend, they’re notoriously aloof and cunning."
+    },
+    {
+      "id": 51,
+      "POS": "verb",
+      "definition": "To amalgamate is to combine different things to create something new.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "amalgamate with an American company"
+    },
+    {
+      "id": 52,
+      "POS": "vert.i/noun",
+      "definition": "to walk slowly and lesuirely; stroll",
+      "synonyms": "",
+      "antonyms": "",
+      "example": ""
+    },
+    {
+      "id": 53,
+      "POS": "adj",
+      "definition": "something extremely pleasing to taste or smell",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "The ambrosial aroma of the roast stimulated our appetities"
+    },
+    {
+      "id": 54,
+      "POS": "vert.t",
+      "definition": "To ameliorate is to step in and make a bad situation better.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "You could try introducing a second lollipop to ameliorate a battle between two toddlers over a single lollipop."
+    },
+    {
+      "id": 55,
+      "POS": "adj",
+      "definition": "If a person or thing is amenable to something, they are ready, willing, or responsive.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "If your friends want to try sky diving and you're amenable to the idea, sounds like you're going to be jumping out of a plane."
+    },
+    {
+      "id": 56,
+      "POS": "adj",
+      "definition": "having not definite from: shapeless",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "an amorphous cloud mass"
+    },
+    {
+      "id": 57,
+      "POS": "adj",
+      "definition": "not likely to cause or being capable of causing injury or hurt",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "The otherwise anodyne comments sound quite inflammatory when taken out of context"
+    },
+    {
+      "id": 58,
+      "POS": "noun",
+      "definition": "somehing or someone that is hated",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "Violence was anathema to them"
+    },
+    {
+      "id": 59,
+      "POS": "adj",
+      "definition": "Sometimes you can tell just from looking at someone's pale face and lips that they're anemic. If you're anemic, your body has a shortage of healthy red blood cells.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "an anemic economic recovery"
     }
   ]
 }
