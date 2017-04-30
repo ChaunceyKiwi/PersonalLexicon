@@ -279,6 +279,111 @@
       "id": 55,
       "spelling": "anemic",
       "meanings": [59]
+    },
+    {
+      "id": 56,
+      "spelling": "anesthetic",
+      "meanings": [60]
+    },
+    {
+      "id": 57,
+      "spelling": "animus",
+      "meanings": [61]
+    },
+    {
+      "id": 58,
+      "spelling": "annul",
+      "meanings": [62]
+    },
+    {
+      "id": 59,
+      "spelling": "antagonize",
+      "meanings": [63, 64]
+    },
+    {
+      "id": 60,
+      "spelling": "antediluvian",
+      "meanings": [65]
+    },
+    {
+      "id": 61,
+      "spelling": "anterior",
+      "meanings": [66]
+    },
+    {
+      "id": 62,
+      "spelling": "antic",
+      "meanings": [67]
+    },
+    {
+      "id": 63,
+      "spelling": "apathy",
+      "meanings": [68]
+    },
+    {
+      "id": 64,
+      "spelling": "apocalyptic",
+      "meanings": [69, 70]
+    },
+    {
+      "id": 65,
+      "spelling": "apocryphal",
+      "meanings": [71]
+    },
+    {
+      "id": 66,
+      "spelling": "apoplectic",
+      "meanings": [72]
+    },
+    {
+      "id": 67,
+      "spelling": "apostasy",
+      "meanings": [73]
+    },
+    {
+      "id": 68,
+      "spelling": "appall",
+      "meanings": [74]
+    },
+    {
+      "id": 69,
+      "spelling": "apposite",
+      "meanings": [75]
+    },
+    {
+      "id": 70,
+      "spelling": "apprehension",
+      "meanings": [76, 77]
+    },
+    {
+      "id": 71,
+      "spelling": "apropos",
+      "meanings": [78]
+    },
+    {
+      "id": 72,
+      "spelling": "archaic",
+      "meanings": [79]
+    },
+    {
+      "id": 73,
+      "spelling": "arduous",
+      "meanings": [80]
+    },
+    {
+      "id": 74,
+      "spelling": "anthropogenic",
+      "meanings": [81]
+    },
+    {
+      "id": 75,
+      "spelling": "ascetic",
+      "meanings": [82]
+    },
+    {
+      "id": 76,
+      "spelling": "aseptic",
+      "meanings": [83]
     }
   ]
 }

@@ -479,6 +479,198 @@
       "synonyms": "",
       "antonyms": "",
       "example": "an anemic economic recovery"
+    },
+    {
+      "id": 60,
+      "POS": "adj/noun",
+      "definition": "The next time you go to the dentist, make sure you know the word anesthetic. This drug causes a temporary loss of feeling, making it your best friend if the drill has to be used.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "be anesthetic to their feelings"
+    },
+    {
+      "id": 61,
+      "POS": "noun",
+      "definition": "a usually prejudiced and often spiteful or malevolent ill will, enmity",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "She felt no animus toward those who had wronged her"
+    },
+    {
+      "id": 62,
+      "POS": "verb.t",
+      "definition": "to declare or make legally invalid or void",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "annul the contract"
+    },
+    {
+      "id": 63,
+      "POS": "verb.t",
+      "definition": "to act in opposition to; counteract",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "antagonize a bill"
+    },
+    {
+      "id": 64,
+      "POS": "verb.t",
+      "definition": "to incur or provoke the hostility of",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "His remark antagonized his friends"
+    },
+    {
+      "id": 65,
+      "POS": "adj",
+      "definition": "Antediluvian means 'before the flood' — that is, the Biblical flood with Noah's ark. Generally, though, the word is used — often humorously — to describe something really, really old.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "He has antediluvian notions about the role of women in the workplace"
+    },
+    {
+      "id": 66,
+      "POS": "adj",
+      "definition": "coming before in time or development",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "finish the work anterior to the schedule; tests anterior to the college entrance examination"
+    },
+    {
+      "id": 67,
+      "POS": "An antic is a prank to the extreme. It’s outrageous, but it’s usually meant to be funny. When the senior class steals the principal’s car and manages to get it inside the gym, the antic may be condemned by the school, but everyone else probably thinks it’s hilarious.",
+      "definition": "",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "The clown came on with many antic gestures"
+    },
+    {
+      "id": 68,
+      "POS": "noun",
+      "definition": "Use the noun apathy when someone isn't interested in the important things that are happening.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "She heard the story with apathy"
+    },
+    {
+      "id": 69,
+      "POS": "adj",
+      "definition": "of a revelatory or prophetic nature",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "No one listened to her apocalyptic predictions"
+    },
+    {
+      "id": 70,
+      "POS": "adj",
+      "definition": "being a major turing point",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "The apocalyptic Battle Of Stalingrad led to the ultimate defeat of Nazi Germany"
+    },
+    {
+      "id": 71,
+      "POS": "adj",
+      "definition": "of doubtful anthenticity: spurious",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "an apocryphal story about president's childhood"
+    },
+    {
+      "id": 72,
+      "POS": "adj",
+      "definition": "Someone who is apoplectic is not just mad — they're so filled with rage, they can barely communicate.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "If your mother is apoplectic, you'd better hope it isn't over something you did."
+    },
+    {
+      "id": 73,
+      "POS": "noun",
+      "definition": "abandonment of a previous loyalty: defection",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "He was looked down upon for apostasy"
+    },
+    {
+      "id": 74,
+      "POS": "vert.t",
+      "definition": "Appalled is an adjective that describes feeling shocked and disappointed.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "He felt appalled by the whole idea of marriage, so we broke up"
+    },
+    {
+      "id": 75,
+      "POS": "adj",
+      "definition": "fitting or relevant",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "enrich his essay with some very apposite quotations from famous people"
+    },
+    {
+      "id": 76,
+      "POS": "noun",
+      "definition": "Apprehension is fear or anxiety about something – you might feel apprehension about an upcoming test.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "She had a stong apprehension about her sister's health"
+    },
+    {
+      "id": 77,
+      "POS": "noun",
+      "definition": "the knowledge gained from the process of coming to know or understand something",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "sudden apprehension of something strange"
+    },
+    {
+      "id": 78,
+      "POS": "adj/prep",
+      "definition": "having to do with",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "The actor announced to reporters that he would only answer to apropos questions about the movie"
+    },
+    {
+      "id": 79,
+      "POS": "If you use the adjective archaic you are referring to something outmoded, belonging to an earlier period.",
+      "definition": "",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "archaic laws"
+    },
+    {
+      "id": 80,
+      "POS": "adj",
+      "definition": "hard to accomplish or achieve: difficult",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "a long and arduous undertaking"
+    },
+    {
+      "id": 81,
+      "POS": "adj",
+      "definition": "Anthropogenic is an adjective that describes changes in nature made by people.",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "Anthropogenic degradation of the environment"
+    },
+    {
+      "id": 82,
+      "POS": "adj",
+      "definition": "practicing strict self-denial as a measure of personal and especially spiritual discipline",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "Want to live an ascetic lifestyle? Then you better ditch the flat panel TV and fuzzy slippers."
+    },
+    {
+      "id": 83,
+      "POS": "adj/adv",
+      "definition": "preventing infection",
+      "synonyms": "",
+      "antonyms": "",
+      "example": "Surgery must be in aseptic environments"
     }
   ]
 }
