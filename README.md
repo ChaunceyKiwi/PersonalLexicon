@@ -1,4 +1,5 @@
 # PersonalLexicon
+Used to memorized GRE vocabulary
 
 ## To-do list
 * Enable forms to add words and meanings
